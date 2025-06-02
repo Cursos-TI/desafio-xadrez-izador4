@@ -14,7 +14,7 @@ int main()
     // Move a rainha oito casas para esquerda
     do
     {
-        printf("Rainha : esquerda\n");
+        printf("Rainha : Esquerda\n");
         rainha++;
 
     } while (rainha < 8);
